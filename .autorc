@@ -1,10 +1,7 @@
 {
     "onlyPublishWithReleaseLabel": true,
     "baseBranch": "master",
-    "author": {
-        "name": "auto",
-        "email": "auto@nil"
-    },
+    "author": "auto <auto@nil>",
     "noVersionPrefix": true,
     "plugins": ["git-tag"]
 }
