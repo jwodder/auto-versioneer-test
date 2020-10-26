@@ -1,3 +1,29 @@
+# 0.1.0 (Mon Oct 26 2020)
+
+#### 🚀 Enhancement
+
+- Add workflow for publishing to (Test)PyPI [#9](https://github.com/jwodder/auto-test/pull/9) ([@jwodder](https://github.com/jwodder))
+- Package as a Python project [#6](https://github.com/jwodder/auto-test/pull/6) ([@jwodder](https://github.com/jwodder))
+
+#### 🐛 Bug Fix
+
+- Eliminate auto verbosity [#8](https://github.com/jwodder/auto-test/pull/8) ([@jwodder](https://github.com/jwodder))
+
+#### 🏠 Internal
+
+- Add a .gitignore [#7](https://github.com/jwodder/auto-test/pull/7) ([@jwodder](https://github.com/jwodder))
+
+#### 📝 Documentation
+
+- Update README [#10](https://github.com/jwodder/auto-test/pull/10) ([@jwodder](https://github.com/jwodder))
+- Add README [#5](https://github.com/jwodder/auto-test/pull/5) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.0.1 (Mon Oct 12 2020)
 
 #### 🐛 Bug Fix
