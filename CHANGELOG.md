@@ -1,3 +1,15 @@
+# 0.1.1 (Mon Oct 26 2020)
+
+#### 🐛 Bug Fix
+
+- Fix post-release trigger? [#11](https://github.com/jwodder/auto-test/pull/11) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.1.0 (Mon Oct 26 2020)
 
 #### 🚀 Enhancement
