@@ -35,6 +35,11 @@ Prerequisites
 When copying this repository's configuration to another repository, the
 following additional steps must be taken:
 
+- After configuring `.autorc`, the necessary labels must be created in the
+  GitHub repository by running the following in a clone of the repo:
+
+        GH_TOKEN=... auto create-labels
+
 - The most recent release of the project must be tagged and have a GitHub
   release created for it
 - A PyPI upload token must be saved as a secret named "`PYPI_TOKEN`"
