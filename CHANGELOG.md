@@ -1,3 +1,23 @@
+# 0.2.0 (Mon Oct 26 2020)
+
+#### 🚀 Enhancement
+
+- Try a different way of triggering PyPI releases [#14](https://github.com/jwodder/auto-test/pull/14) ([@jwodder](https://github.com/jwodder))
+
+#### 🐛 Bug Fix
+
+- Fix workflow syntax [#15](https://github.com/jwodder/auto-test/pull/15) ([@jwodder](https://github.com/jwodder))
+
+#### 📝 Documentation
+
+- Update README [#16](https://github.com/jwodder/auto-test/pull/16) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.1.3 (Mon Oct 26 2020)
 
 #### 🐛 Bug Fix
