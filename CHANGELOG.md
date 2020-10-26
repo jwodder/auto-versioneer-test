@@ -1,3 +1,15 @@
+# 0.2.2 (Mon Oct 26 2020)
+
+#### 🐛 Bug Fix
+
+- More fixes [#18](https://github.com/jwodder/auto-test/pull/18) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.2.1 (Mon Oct 26 2020)
 
 #### 🐛 Bug Fix
