@@ -1,3 +1,15 @@
+# 0.2.3 (Mon Oct 26 2020)
+
+#### 🐛 Bug Fix
+
+- Fix job #2 checkout [#19](https://github.com/jwodder/auto-test/pull/19) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.2.2 (Mon Oct 26 2020)
 
 #### 🐛 Bug Fix
