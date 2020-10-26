@@ -1,3 +1,15 @@
+# 0.1.3 (Mon Oct 26 2020)
+
+#### 🐛 Bug Fix
+
+- Trigger on new tags instead of releases [#13](https://github.com/jwodder/auto-test/pull/13) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.1.2 (Mon Oct 26 2020)
 
 #### 🐛 Bug Fix
