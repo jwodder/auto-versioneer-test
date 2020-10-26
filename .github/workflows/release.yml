@@ -26,6 +26,8 @@ jobs:
       - name: Check whether a release is due
         id: auto-version
         run: echo "::set-output name=version::$(~/auto version)"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create release
         run: ~/auto shipit
@@ -41,6 +43,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+          ref: ${{ needs.auto-release.outputs.auto-version }}
 
       - name: Set up Python
         uses: actions/setup-python@v1
