@@ -13,6 +13,9 @@ master, if the PR has the `release` label, auto performs the following:
 - A GitHub release is created for the new version using the same body as the
   CHANGELOG section.
 
+    - The creation of the GitHub release in turn triggers a separate workflow,
+      which builds the Python project and publishes it to TestPyPI.
+
 By default, auto recognizes the following PR labels:
 
 - `major` — for major version level changes
@@ -23,3 +26,14 @@ By default, auto recognizes the following PR labels:
 - `release` — causes a new release after merging
 - `skip-release` — unnecessary, since this repository is configured to only
   release on PRs with `release`
+
+
+Prerequisites
+=============
+
+When copying this repository's configuration to another repository, the
+following additional steps must be taken:
+
+- The most recent release of the project must be tagged and have a GitHub
+  release created for it
+- A PyPI upload token must be saved as a secret named "`PYPI_TOKEN`"
