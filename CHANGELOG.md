@@ -1,3 +1,15 @@
+# 0.2.1 (Mon Oct 26 2020)
+
+#### 🐛 Bug Fix
+
+- Fix auto invocation [#17](https://github.com/jwodder/auto-test/pull/17) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.2.0 (Mon Oct 26 2020)
 
 #### 🚀 Enhancement
