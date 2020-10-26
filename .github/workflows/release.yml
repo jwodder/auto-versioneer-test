@@ -25,7 +25,7 @@ jobs:
 
       - name: Check whether a release is due
         id: auto-version
-        run: echo "::set-output name=version::$(auto version)"
+        run: echo "::set-output name=version::$(~/auto version)"
 
       - name: Create release
         run: ~/auto shipit
