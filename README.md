@@ -14,7 +14,8 @@ master, if the PR has the `release` label, auto performs the following:
   CHANGELOG section.
 
     - The creation of the GitHub release in turn triggers a job for building
-      the Python project and uploading it to TestPyPI.
+      the Python project and uploading it to TestPyPI
+      ([link](https://test.pypi.org/project/jwodder-auto-test/)).
 
 By default, auto recognizes the following PR labels:
 
