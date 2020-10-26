@@ -1,3 +1,15 @@
+# 0.1.2 (Mon Oct 26 2020)
+
+#### 🐛 Bug Fix
+
+- Definitely fix the trigger type this time [#12](https://github.com/jwodder/auto-test/pull/12) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.1.1 (Mon Oct 26 2020)
 
 #### 🐛 Bug Fix
