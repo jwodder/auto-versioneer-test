@@ -15,7 +15,7 @@ setup_kw = {
 }
 
 setup(
-    name='jwodder-auto-test',
+    name='jwodder-auto-versioneer-test',
     packages=find_packages(),
     author='John T. Wodder II',
     author_email='auto-test@varonathe.org',
