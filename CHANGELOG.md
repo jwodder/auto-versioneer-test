@@ -1,3 +1,15 @@
+# 0.1.1 (Mon Feb 22 2021)
+
+#### 🐛 Bug Fix
+
+- Try to debug a lack of latest tag [#1](https://github.com/jwodder/auto-versioneer-test/pull/1) ([@jwodder](https://github.com/jwodder))
+
+#### Authors: 1
+
+- John T. Wodder II ([@jwodder](https://github.com/jwodder))
+
+---
+
 # 0.2.3 (Mon Oct 26 2020)
 
 #### 🐛 Bug Fix
